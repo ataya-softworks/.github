@@ -1,2 +1,2 @@
-# Atatasoft Group
+# Atayasoft Group
 Third-party games software solutions
