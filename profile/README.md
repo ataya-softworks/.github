@@ -1,2 +1,2 @@
-# Atayasoft Group
-Third-party games software solutions
+# Ataya Software Group
+We make third-party software for solving game needs
