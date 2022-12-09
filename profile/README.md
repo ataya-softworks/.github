@@ -1,2 +1,2 @@
-# Ataya Software Group
-We make third-party software for solving game needs
+# Nimbus Minecraft Server
+Open source repository
